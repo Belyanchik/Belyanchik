@@ -1,5 +1,5 @@
 <h1 align="center">Hi, i'm Belyanchik</h1>
-<h3 align="center">I am learning to program on my own and this profile will be my portfolio. Both small programs and large (for me personally) projects will appear here.</h3>
+<h3 align="center">I am learning to program on my own and this profile will be my portfolio. Both small programs and large (for me personally 🙃) projects will appear here.</h3>
 
 ### Technologies I know:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
