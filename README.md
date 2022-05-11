@@ -7,6 +7,13 @@
 ### Technologies I study
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+> My learning of JavaScript took a little longer and I decided to put myself a limit on learning it.  If I don't have time to learn a language in 92 days, then I post my very first code without editing
+
+    for(let i = 0; i != 92; i++){
+      setTimeout(learnJavaScript, i*86400000, i);
+    };
+    //Day: 1 / 92
+
 ### Technologies I want to learn
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
