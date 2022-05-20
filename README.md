@@ -12,7 +12,7 @@
     for(let i = 0; i != 92; i++){
       setTimeout(learnJavaScript, i*86400000, i);
     };
-    //Day: 9 / 92
+    //Day: 10 / 92
 
 ### Technologies I want to learn
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -21,4 +21,4 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Belyanchik&color=orange)
 
-<a href="https://www.vecteezy.com/free-vector/sleeping-fox"><p align="right"><img src="https://media.discordapp.net/attachments/967792782297170062/972459123507593246/Project_2.gif" alt="sleeping fox" width=15%></p></a>
+<a href="https://www.vecteezy.com/free-vector/sleeping-fox"><p align="right"><img src="https://media.discordapp.net/attachments/967792782297170062/972459123507593246/Project_2.gif" alt="sleeping fox" width=25% height=25%></p></a>
