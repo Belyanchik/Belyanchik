@@ -12,7 +12,7 @@
     for(let i = 0; i != 92; i++){
       setTimeout(learnJavaScript, i*86400000, i);
     };
-    //Day: 41 / 92
+    //Day: 45 / 92
 
 ### Technologies I want to learn
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
