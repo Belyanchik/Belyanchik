@@ -21,4 +21,4 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Belyanchik&color=orange)
 
-<a href="https://www.vecteezy.com/free-vector/sleeping-fox"><p align="right"><img src="https://media.discordapp.net/attachments/967792782297170062/972459123507593246/Project_2.gif" alt="sleeping fox" width="35%"></p></a>
+<a href="https://www.vecteezy.com/free-vector/sleeping-fox"><p align="right"><img src="https://media.discordapp.net/attachments/967792782297170062/972459123507593246/Project_2.gif" alt="sleeping fox" width="25%"></p></a>
