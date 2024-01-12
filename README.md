@@ -6,7 +6,7 @@
 <h3 align="center">Technologies I know:</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=py,html,css,js,md,unity" alt="I know"></p>
 <h3 align="center">Technologies I study:</h3>
-<p align="center"><img src="https://skillicons.dev/icons?i=cs" alt="I study"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=cs,postgres" alt="I study"></p>
 
 ---
 <details>
