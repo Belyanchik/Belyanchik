@@ -16,4 +16,4 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Belyanchik&color=orange&style=for-the-badge" alt="Views"></p>
 </details>
 
-<a href="https://www.vecteezy.com/free-vector/sleeping-fox"><p align="right"><img src="https://media.discordapp.net/attachments/967792782297170062/972459123507593246/Project_2.gif" alt="sleeping fox" width="25%"></p></a>
+<a href="https://www.vecteezy.com/free-vector/sleeping-fox"><p align="right"><img src="https://github.com/Belyanchik/hello-world/blob/main/img/sleep_fox.gif" alt="sleeping fox" width="25%"></p></a>
